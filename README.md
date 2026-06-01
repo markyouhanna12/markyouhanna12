@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋, I'm Mark
 
-<!--
-**markyouhanna12/markyouhanna12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Biomedical Engineer and Software Developer passionate about building intelligent systems.
 
-Here are some ideas to get you started:
+- 🎓 Biomedical Engineering Graduate
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 👁️ Working with Computer Vision
+- 💻 Backend Developer using Node.js
+- 🌱 Currently improving my software engineering skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- JavaScript
+- C++
+- Python
+
+
+### Backend
+- Node.js
+- Express.js
+
+
+### AI / ML
+- TensorFlow
+- PyTorch
+- OpenCV
+- Scikit-Learn
+
+### Databases
+- MongoDB
+- SQL
+
+---
+
+## 🔥 Projects
+
+### 🩸 Non-Invasive Diabetes Detection
+Machine learning system using PPG signals to classify diabetic and non-diabetic patients.
+
+### 👁️ Computer Vision Projects
+Object detection and image processing using YOLO and OpenCV.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mark-youhanna-894664312/
+- Email: markyouhanna1@gmail.com
